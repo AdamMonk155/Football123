@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/"
+  to = "/FootballGame.html"
+  status = 200
